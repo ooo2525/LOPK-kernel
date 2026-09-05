@@ -10,6 +10,9 @@ LOPK is a hobby operating system project, and contributions are welcome. If you'
 * [ ] **TODO:** Write AHCI drivers.
 * [ ] **TODO:** Add general functionality.
 * [ ] **TODO:** Improove exsisting code.
+* [ ] **TODO:** Improove documentation and readme.
+* [ ] **TODO:** Add ps/2 mouse drivers.
+* [ ] **TODO:** Add USB drivers.
 
 ## Contributing
 
